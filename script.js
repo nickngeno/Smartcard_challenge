@@ -1,6 +1,6 @@
 /*JavaScript part of the challange*/
 /*ECMAScript 6 syntax used */
-/* this code was developed by Harun Mbaabu Mwenda*/
+/* this code was developed by Nicholas Ngeno*/
     const supportedCards = {
         visa, mastercard
       };
